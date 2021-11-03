@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.esquerdo{
+	text-align: center;
+	float: left;
+	width: 180px;
+	border: 5px solid yellow;
+	padding: 10px;
+	background-color: black;
+	clear: both;
+}
+
+#verde, #vermelho, #amarelo{
+	text-align: center;
+	width: 150px;
+	height: 150px;
+	border: solid black 15px;
+	margin-bottom: 5px;	
+	border-radius: 50%;
+}
+
+.direito{
+	text-align: center;
+	float: right;
+	width: 180px;
+	border: 5px solid yellow;
+	padding: 10px;
+	background-color: black;
+	clear: both
+	top: -200px;
+}
+
+#verde1, #vermelho1, #amarelo1{
+	text-align: center;
+	width: 150px;
+	height: 150px;
+	border: solid black 15px;
+	margin-bottom: 5px;	
+	border-radius: 50%;
+}
+
+.emerg{
+	text-align: center;
+	float: left;
+	width: 180px;
+	border: 5px solid yellow;
+	padding: 10px;
+	background-color: black;
+	clear: both
+	
+}
+
+#amarelo0, #vermelho0, #verde0 {
+	text-align: center;
+	width: 150px;
+	height: 150px;
+	border: solid black 15px;
+	margin-bottom: 5px;	
+	border-radius: 50%;
+}
+
+.emergdir{
+	text-align: center;
+	float: right;
+	width: 180px;
+	border: 5px solid yellow;
+	padding: 10px;
+	background-color: black;
+	clear: both
+	top: -200px;
+}
+
+
+img{
+	width: 500px;
+}
+
+.semafaro{
+	float: left;
+	padding-top: 50px;
+	width: 40%;
+	text-align: center;
+}

@@ -4,6 +4,7 @@ var alunos =
 'CRISTIAN',
 'ELIAS',
 'FELIPE',
+'Enzo',
 'FERNANDA',
 'GEOVANA',
 'GUI_MENDES',

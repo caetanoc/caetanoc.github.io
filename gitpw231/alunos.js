@@ -6,7 +6,7 @@ var alunos =
 'CARLOS',   
 'CECILIA',  
 'DIEGO',    
-'ENZO',     
+'Enzo',     
 'EVELYN',   
 'FELIPE',   
 'GEOVANNA', 

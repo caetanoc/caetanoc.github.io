@@ -15,7 +15,7 @@ var alunos =
 'JOAO',     
 'LEONARDO', 
 'LUCCAS',   
-'MARCELO',  
+'YoungCello',
 'MARIANA',  
 'MATHEUS',  
 'NICOLE',   

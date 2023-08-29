@@ -1,26 +1,27 @@
 var alunos = 
-["ALUNO",
-'CLEO',
-'CRISTIAN',
-'ELIAS',
-'FELIPE',
-'FERNANDA',
-'GEOVANA',
-'GUI_MENDES',
-'GUI_SANCHES',
-'JACSON',
-'JESSICA',
-'JONATHAN',
-'JULLIA',
-'LUANA',
-'MATHEUS',
-'NICHOLAS',
-'RAI',
-'RAYSSA',
-'RYAN',
-'SAMARA',
-'TAINA'
-];
+['ALUNO'
+,'ALEX'
+,'ANTONIO'
+,'CAIO'
+,'CARLEANDRO'
+,'CARLOS'
+,'DANIEL'
+,'DENISE'
+,'ERICK'
+,'FABIANA'
+,'LOPES'
+,'MANICARDI'
+,'FERNANDO'
+,'GUILHERME'
+,'JOAO'
+,'JUAN'
+,'LEONARDO'
+,'LUCAS'
+,'MATHEUS'
+,'RAPHAEL'
+,'RODRIGO'
+,'SANDY'
+,'THALIB'];
 
 var len = alunos.length;
 var text = '<table id="t01"> ';

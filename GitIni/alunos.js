@@ -33,5 +33,5 @@ for (i=0; i < len; i++) {
     text += "</tr>";
 }
 
-text += "</table>";
+text += "</table>"; 
 document.getElementById("lista").innerHTML = text;

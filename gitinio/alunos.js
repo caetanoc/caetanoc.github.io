@@ -21,7 +21,8 @@ var alunos =
 ,'RAPHAEL'
 ,'RODRIGO'
 ,'SANDY'
-,'THALIB'];
+,'THALIB'
+];
 
 var len = alunos.length;
 var text = '<table id="t01"> ';

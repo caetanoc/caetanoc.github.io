@@ -8,7 +8,7 @@ var alunos =
 ,'DANIEL'
 ,'DENISE'
 ,'ERICK'
-,'FABIANA'
+,'FABIULEX'
 ,'LOPES'
 ,'MANICARDI'
 ,'FERNANDO'
